@@ -59,3 +59,18 @@ typings/
 
 # next.js build output
 .next
+
+
+############################
+# 테마에 포함된 gitignore
+.DS_Store
+
+# Compiled site
+_site
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
